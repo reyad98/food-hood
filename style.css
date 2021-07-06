@@ -1,0 +1,97 @@
+body{
+    font-family: 'Bree Serif', serif;
+}
+h1{
+    font-size: 40px;
+}
+.difcolor
+{
+    color: rgb(255, 154, 38);
+}
+.intro
+{
+    display: flex;
+    margin: 70px;
+}
+.halfintro
+{
+    width: 50%;
+    padding-left : 5%;
+    text-align: justify;
+}
+.halfintro img{
+    padding-top: 5%;
+    width: 100%;
+}
+.orderbutton
+{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(171, 12, 211),rgb(51, 7, 51)); 
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+#myself
+{
+    text-align: center;
+    text-shadow: crimson;
+    color: rgb(1, 151, 126);
+}
+.about{
+  background-image: url(foodimages/reddot.jpeg);
+  background-size: cover;
+}
+.secondimg img
+{
+    width: 70%;  
+}
+.position{
+    width: 50%;
+    padding-left : 5%;
+    padding-right: 4%;
+    text-align: justify;
+    padding-top: 10%;
+}
+#recipe{
+    text-align: center;
+}
+.third{
+    width: 50%;
+    padding-left : 26%;
+    text-align: justify;
+    padding-bottom: 7%;
+}
+
+.box
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    width: 300px;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 10px;
+    box-shadow:10px 10px 8px rgba(32, 32, 32, 0.733);
+   
+}
+div .card img
+{
+    width: 96%;
+    padding-top: 2%;
+    border-radius: 10%;
+}
+.cardcolor
+{
+    background-color: rgb(137, 218, 17);
+}
+.cardcolorr
+{
+    background-color: rgb(240, 175, 195);
+}
+.cardcolorrr
+{
+    background-color: rgb(201, 55, 55);
+}
