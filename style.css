@@ -93,5 +93,80 @@ div .card img
 }
 .cardcolorrr
 {
-    background-color: rgb(201, 55, 55);
+    background-color: rgb(230, 75, 75);
+}
+.last{
+    text-align: center;
+    padding-left: 5%;
+    padding-top: 10%;
+}
+.rate
+{
+    color: rgb(248, 192, 9);
+}
+.review .boxcon
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px;
+     
+}
+.boxcon{
+    padding-top: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 6%;
+}
+.circlebox{
+    width: 200px;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 10px;
+    box-shadow:10px 10px 8px rgba(32, 32, 32, 0.733);
+    background-color: rgb(204, 240, 237);
+}
+.circlebox img
+{
+    width:97%;
+    padding-top: 2%;
+    border-radius: 5%;
+}
+.final
+{
+    margin: 130px;
+    display: flex;
+    border: 2px solid;
+    border-radius: 5%;
+    box-shadow:10px 10px 8px rgba(32, 32, 32, 0.733);
+    background-color: rgb(179, 157, 155);
+    padding-bottom: 5px;
+}
+.fbook
+{
+    
+    width: 30%;
+    padding-left :10%;
+    text-align: justify;  
+}
+.foot{
+    font-size: 30px;
+    text-align: center;
+}
+#foodcolor{
+    color: palevioletred;
+}
+#hoodcolor
+{
+    color: sandybrown;
+}
+#moto
+{
+    text-align: center;
+    color: seashell;
+}
+.footbg
+{
+    padding-bottom: 10px;
+    background-color: rgb(66, 64, 64);
 }
